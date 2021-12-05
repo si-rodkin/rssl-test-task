@@ -1,6 +1,13 @@
 {
   "dependencies": {
+    "@types/jest": "^27.0.3",
     "@types/node": "^16.11.11",
+    "ject": "^1.1.0",
+    "ts-jest": "^27.1.0",
+    "ts-node": "^10.4.0",
     "typescript": "^4.5.2"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
